@@ -156,6 +156,3 @@ Takes any two correlated stocks and runs a complete 7-step mean reversion analys
 
 ---
 
-## How the Strategy Works
-
-The spread between two correlated stocks follows an **AR(1) autoregressive process**:
